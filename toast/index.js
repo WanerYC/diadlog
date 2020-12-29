@@ -15,5 +15,5 @@ obj.install = function (Vue) {
  
   Vue.prototype.$toast = toast
 }
- 
+
 export default obj
